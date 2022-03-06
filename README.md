@@ -2,7 +2,7 @@
 
 - 🖥️ Hoje trabalho como full stack developer.
 - 🏆 Formado em Jogos Digitais
-- 🥇 Pós-Graduação em Projetos em Sistemas de Informação
+- 🥇 Pós-Graduado em Projetos em Sistemas de Informação
 - 🥇 Estudante de Pós-graduação em Projetos de Aplicativos Móveis Multiplataforma
 - 🥇 Estudante de Pós-graduação em Segurança da Informação
 
