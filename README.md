@@ -3,8 +3,8 @@
 - 🖥️ Hoje trabalho como full stack developer.
 - 🏆 Formado em Jogos Digitais
 - 🥇 Pós-Graduado em Projetos em Sistemas de Informação
-- 🥇 Estudante de Pós-graduação em Projetos de Aplicativos Móveis Multiplataforma
-- 🥇 Estudante de MBA Em Gestão Estratégica de Projetos e Metodologias Ágeis
+- 📚 Estudante de Pós-graduação em Projetos de Aplicativos Móveis Multiplataforma
+- 📚 Estudante de MBA Em Gestão Estratégica de Projetos e Metodologias Ágeis
 
 <div>
   <a href="https://github.com/soapmactavish23">
