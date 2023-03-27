@@ -4,7 +4,7 @@
 - 🏆 Formado em Jogos Digitais
 - 🥇 Pós-Graduado em Projetos em Sistemas de Informação
 - 🥇 Pós-Graduado em Projetos de Aplicativos Móveis Multiplataforma
-- 📚 Estudante de MBA Em Gestão Estratégica de Projetos e Metodologias Ágeis
+- 🥇 MBA Em Gestão Estratégica de Projetos e Metodologias Ágeis
 
 <!-- <div>
   <a href="https://github.com/soapmactavish23">
