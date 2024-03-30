@@ -5,6 +5,7 @@
 - 🥇 Pós-Graduado em Projetos em Sistemas de Informação
 - 🥇 Pós-Graduado em Projetos de Aplicativos Móveis Multiplataforma
 - 🥇 MBA Em Gestão Estratégica de Projetos e Metodologias Ágeis
+- 🥇 Mestrado em Computação Aplicada com ênfase em Engenharia de Software
 
 <!-- <div>
   <a href="https://github.com/soapmactavish23">
