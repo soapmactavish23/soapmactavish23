@@ -5,7 +5,7 @@
 - 🥇 Pós-Graduado em Projetos em Sistemas de Informação
 - 🥇 Pós-Graduado em Projetos de Aplicativos Móveis Multiplataforma
 - 🥇 MBA Em Gestão Estratégica de Projetos e Metodologias Ágeis
-- 🥇 Mestrado em Computação Aplicada com ênfase em Engenharia de Software
+- 🥇 Mestrando em Computação Aplicada com ênfase em Engenharia de Software
 
 <!-- <div>
   <a href="https://github.com/soapmactavish23">
@@ -37,7 +37,6 @@
   ##
   
   <div> 
-    <a href="https://www.youtube.com/channel/UCI3rb8INEnDWd7jwqWpb66g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/nogueira_henrick" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://www.facebook.com/henrick.nogueira/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
   <a href = "mailto:ricknogueira1231@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
